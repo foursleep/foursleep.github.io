@@ -1,0 +1,7 @@
+# Site settings
+title: 叉烧超级好吃
+description: Modern-Blog A Elegant template for Jekyll
+keywords: eat，sleep
+author: four-sleep
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
